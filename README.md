@@ -7,4 +7,4 @@ Die Website dient als ergänzende Referenz zu meinen Bewerbungsunterlagen
 und gibt einen Überblick über meinen aktuellen Kenntnisstand sowie ein
 Praxisprojekt aus meiner Umschulung.
 
-👉 https://quinnflynn.github.io/Portfolio/
+👉 https://richardkab.github.io/Portfolio/
